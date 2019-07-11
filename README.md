@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+Install Dependencies:
+### `npm install`
+### `npm install @material-ui/core`
+### `npm install @material-ui/icons`
+### `npm install @material-ui/styles`
+### `npm install react-world-flags`
+### `npm install axios`
 
 In the project directory, you can run:
 
